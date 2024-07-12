@@ -1,0 +1,8 @@
+[2024-07-04 11:57:05] abc: Logged in
+[2024-07-04 11:57:05] abc: Accessed profile
+[2024-07-04 11:57:05] abc: Updated settings
+[2024-07-04 11:57:05] abc: Logged out
+[2024-07-04 11:57:28] praveen: Logged in
+[2024-07-04 11:57:28] praveen: Accessed profile
+[2024-07-04 11:57:28] praveen: Updated settings
+[2024-07-04 11:57:28] praveen: Logged out
